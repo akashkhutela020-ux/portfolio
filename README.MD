@@ -1,6 +1,6 @@
 Akash Kumar - Personal Portfolio
 
-This is a simple modern, and animated single-page portfolio website for Akash Kumar, a first-year B.Tech (CSE - AI & ML) student.
+This is a simple,, modern, and animated single-page portfolio website for Akash Kumar, a first-year B.Tech (CSE - AI & ML) student.
 
 It is built using only vanilla HTML, CSS, and JavaScript, with Tailwind CSS for rapid and responsive styling.
 
@@ -62,3 +62,4 @@ In the "Social Links" section, replace the href="#" for LinkedIn and GitHub with
 
 
 That's it! Since all styles and scripts are loaded from a CDN, you can simply open the index.html file in any browser to see your changes live.
+
