@@ -4,8 +4,7 @@ This is a simple,, modern, and animated single-page portfolio website for Akash 
 
 It is built using only vanilla HTML, CSS, and JavaScript, with Tailwind CSS for rapid and responsive styling.
 
-Features
-
+Featur
 Smooth Scrolling: Clean navigation between section
 
 Typing Animation: An engaging typing effect in the hero section to introduce different roles (e.g., "B.Tech Student", "Web Developer").
@@ -62,5 +61,6 @@ In the "Social Links" section, replace the href="#" for LinkedIn and GitHub with
 
 
 That's it! Since all styles and scripts are loaded from a CDN, you can simply open the index.html file in any browser to see your changes live.
+
 
 
